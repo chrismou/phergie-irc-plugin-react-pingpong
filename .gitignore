@@ -1,6 +1,3 @@
 ## Project
 vendor/*
 config.php
-
-## IDE
-.idea/*
