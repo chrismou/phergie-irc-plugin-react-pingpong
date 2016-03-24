@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/chrismou/phergie-irc-plugin-react-pingpong.svg)](https://travis-ci.org/chrismou/phergie-irc-plugin-react-pingpong)
 [![Test Coverage](https://codeclimate.com/github/chrismou/phergie-irc-plugin-react-pingpong/badges/coverage.svg)](https://codeclimate.com/github/chrismou/phergie-irc-plugin-react-pingpong/coverage)
 [![Code Climate](https://codeclimate.com/github/chrismou/phergie-irc-plugin-react-pingpong/badges/gpa.svg)](https://codeclimate.com/github/chrismou/phergie-irc-plugin-react-pingpong)
+[![Buy me a beer](https://img.shields.io/badge/donate-PayPal-019CDE.svg)](https://www.paypal.me/chrismou)
 
 ## About
 
